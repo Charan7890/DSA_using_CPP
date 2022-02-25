@@ -2,7 +2,7 @@
 #include<math.h>
 
 using namespace std;
-
+// Finding binary and invertiing those bits and finding the new number w.r.t that inverted binary number.
 int main(){
     int num;
     cin>>num;
